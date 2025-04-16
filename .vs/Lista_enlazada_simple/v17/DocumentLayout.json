@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Lista_enlazada_simple\\",
+  "WorkspaceRootPath": "C:\\Users\\JNash\\Desktop\\sdsdsd\\EstrucDatos_ListaEnlazadaSimple\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|c:\\users\\jnash\\documents\\proyectos c#\\2025_i (estructura de datos)\\teoria\\semana2\\lista_enlazada_simple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|c:\\users\\jnash\\desktop\\sdsdsd\\estrucdatos_listaenlazadasimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Lista_enlazada_simple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|C:\\Users\\JNash\\Desktop\\sdsdsd\\EstrucDatos_ListaEnlazadaSimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Lista_enlazada_simple\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|C:\\Users\\JNash\\Desktop\\sdsdsd\\EstrucDatos_ListaEnlazadaSimple\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF1E402-BF18-4872-868E-B18453D6A518}|Lista_enlazada_simple.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Lista_enlazada_simple\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JNash\\Desktop\\sdsdsd\\EstrucDatos_ListaEnlazadaSimple\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Lista_enlazada_simple\\Form1.cs",
+              "ToolTip": "C:\\Users\\JNash\\Desktop\\sdsdsd\\EstrucDatos_ListaEnlazadaSimple\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAywC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Lista.cs",
-              "DocumentMoniker": "C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Lista_enlazada_simple\\Lista.cs",
+              "DocumentMoniker": "C:\\Users\\JNash\\Desktop\\sdsdsd\\EstrucDatos_ListaEnlazadaSimple\\Lista.cs",
               "RelativeDocumentMoniker": "Lista.cs",
-              "ToolTip": "C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Lista_enlazada_simple\\Lista.cs",
+              "ToolTip": "C:\\Users\\JNash\\Desktop\\sdsdsd\\EstrucDatos_ListaEnlazadaSimple\\Lista.cs",
               "RelativeToolTip": "Lista.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,10 +53,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Lista_enlazada_simple\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\JNash\\Desktop\\sdsdsd\\EstrucDatos_ListaEnlazadaSimple\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\JNash\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Proyectos C#\\2025_I (Estructura de Datos)\\Teoria\\SEMANA2\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T03:42:00.807Z"
             }
