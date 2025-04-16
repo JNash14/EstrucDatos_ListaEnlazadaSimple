@@ -1,0 +1,20 @@
+C:\Users\JNash\Desktop\Nueva carpeta\bin\Debug\Lista_enlazada_simple.exe.config
+C:\Users\JNash\Desktop\Nueva carpeta\bin\Debug\Lista_enlazada_simple.exe
+C:\Users\JNash\Desktop\Nueva carpeta\bin\Debug\Lista_enlazada_simple.pdb
+C:\Users\JNash\Desktop\Nueva carpeta\obj\Debug\Lista_enlazada_simple.csproj.AssemblyReference.cache
+C:\Users\JNash\Desktop\Nueva carpeta\obj\Debug\Lista_enlazada_simple.Form1.resources
+C:\Users\JNash\Desktop\Nueva carpeta\obj\Debug\Lista_enlazada_simple.Properties.Resources.resources
+C:\Users\JNash\Desktop\Nueva carpeta\obj\Debug\Lista_enlazada_simple.csproj.GenerateResource.cache
+C:\Users\JNash\Desktop\Nueva carpeta\obj\Debug\Lista_enlazada_simple.csproj.CoreCompileInputs.cache
+C:\Users\JNash\Desktop\Nueva carpeta\obj\Debug\Lista_enlazada_simple.exe
+C:\Users\JNash\Desktop\Nueva carpeta\obj\Debug\Lista_enlazada_simple.pdb
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\bin\Debug\Lista_enlazada_simple.exe.config
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\bin\Debug\Lista_enlazada_simple.exe
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\bin\Debug\Lista_enlazada_simple.pdb
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\obj\Debug\Lista_enlazada_simple.csproj.AssemblyReference.cache
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\obj\Debug\Lista_enlazada_simple.Form1.resources
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\obj\Debug\Lista_enlazada_simple.Properties.Resources.resources
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\obj\Debug\Lista_enlazada_simple.csproj.GenerateResource.cache
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\obj\Debug\Lista_enlazada_simple.csproj.CoreCompileInputs.cache
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\obj\Debug\Lista_enlazada_simple.exe
+C:\Users\JNash\Documents\Proyectos C#\2025_I (Estructura de Datos)\SEMANA2\obj\Debug\Lista_enlazada_simple.pdb
